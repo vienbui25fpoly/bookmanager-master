@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Quản lý sách</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+    <!--Activity Login-->
+    <string name="notify_empty_user">Yêu cầu nhập liệu</string>
+    <string name="notify_empty_pass">Yêu cầu nhập liệu</string>
+    <string name="notify_length_user">Yêu cầu phải từ 6 kí tự trở lên</string>
+    <string name="notify_length_pass">Phải nhập trên 6 kí tự</string>
+    <string name="notify_wrong_username_password">Sai tên đăng nhập hoặc mật khẩu!</string>
+    <string name="title_list_user_act">Người Dùng</string>
+    <!--Activity User-->
+    <string name="notify_max_bill_id">Mã hóa đơn tối đa 8 kí tự!!!</string>
+    <string name="tv_save_password">Lưu mật khẩu?</string>
+    <string name="tv_login">Đăng nhập</string>
+    <string name="tv_fogot_password">Quên mật khẩu?</string>
+    <string name="tv_notify_acc">Bạn chưa có tài khoản?</string>
+    <string name="tv_phone_number">Số điện thoại</string>
+    <!--Activity User-->
+    <string name="tv_wel">Xin Chào!</string>
+    <string name="tv_mes">Vui lòng đăng nhập hoặc đăng kí để sử dụng ứng dụng</string>
+    <string name="tv_email">tiennvph06776@fpt.edu.vn</string>
+    <string name="tv_cancel">Hủy</string>
+    <string name="tv_add">Thêm</string>
+    <string name="tv_add_style_book">THÊM THỂ LOẠI</string>
+    <string name="tv_edit_info">CHỈNH SỬA THÔNG TIN</string>
+    <string name="tv_fullname">Họ và tên</string>
+    <string name="tv_total">Tổng tiền:</string>
+    <string name="tv_edit">Sửa</string>
+</resources>
